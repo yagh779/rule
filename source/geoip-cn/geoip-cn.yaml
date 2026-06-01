@@ -1,0 +1,6 @@
+- name: geoip-cn
+  description: geoip-cn
+  type: http
+  behavior: domain
+  format: text
+  url: https://raw.githubusercontent.com/nekolsd/geoip/release/text/cn.txt

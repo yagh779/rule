@@ -1,0 +1,6 @@
+- name: category-httpdns-cn
+  description: category-httpdns-cn
+  type: http
+  behavior: domain
+  format: text
+  url: https://raw.githubusercontent.com/nekolsd/sing-geosite/domain-set/category-httpdns-cn.txt

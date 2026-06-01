@@ -1,0 +1,6 @@
+- name: geoip-google
+  description: geoip-google
+  type: http
+  behavior: domain
+  format: text
+  url: https://raw.githubusercontent.com/nekolsd/geoip/release/text/google.txt

@@ -1,0 +1,6 @@
+- name: geolocation-!cn
+  description: geolocation-!cn
+  type: http
+  behavior: domain
+  format: text
+  url: https://raw.githubusercontent.com/nekolsd/sing-geosite/domain-set/geolocation-!cn.txt

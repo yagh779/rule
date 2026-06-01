@@ -1,0 +1,6 @@
+- name: stream-cn
+  description: stream-cn
+  type: http
+  behavior: domain
+  format: text
+  url: https://raw.githubusercontent.com/Sfssup/mihomo-set/main/rule_set/direct.yaml

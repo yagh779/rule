@@ -1,0 +1,6 @@
+- name: geoip-telegram
+  description: geoip-telegram
+  type: http
+  behavior: domain
+  format: text
+  url: https://raw.githubusercontent.com/nekolsd/geoip/release/text/telegram.txt

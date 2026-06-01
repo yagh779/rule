@@ -1,0 +1,6 @@
+- name: github
+  description: github
+  type: http
+  behavior: domain
+  format: text
+  url: https://raw.githubusercontent.com/nekolsd/sing-geosite/domain-set/github.txt
