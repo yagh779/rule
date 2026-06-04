@@ -1,0 +1,6 @@
+- name: cn-additional-list
+  description: cn-additional-list
+  type: http
+  behavior: domain
+  format: yaml
+  url: https://static-file-global.353355.xyz/rules/cn-additional-list-clash.yaml
