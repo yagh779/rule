@@ -1,6 +1,6 @@
 - name: geoip-telegram
   description: geoip-telegram
   type: http
-  behavior: domain
+  behavior: ipcidr
   format: text
   url: https://raw.githubusercontent.com/nekolsd/geoip/release/text/telegram.txt
