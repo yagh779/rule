@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "providerArtifacts": [
+    {
+      "relativePath": "category-ai-!cn/category-ai-_cn_Domain.mrs",
+      "sourceRelativeDir": "category-ai-!cn",
+      "entryName": "category-ai-!cn",
+      "fileName": "category-ai-_cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "category-ai-_cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "category-ai-!cn/category-ai-_cn_IP.mrs",
+      "sourceRelativeDir": "category-ai-!cn",
+      "entryName": "category-ai-!cn",
+      "fileName": "category-ai-_cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "category-ai-_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "category-ai-!cn/category-ai-_cn.yaml",
+      "sourceRelativeDir": "category-ai-!cn",
+      "entryName": "category-ai-!cn",
+      "fileName": "category-ai-_cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "category-ai-_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "category-httpdns-cn/category-httpdns-cn_Domain.mrs",
+      "sourceRelativeDir": "category-httpdns-cn",
+      "entryName": "category-httpdns-cn",
+      "fileName": "category-httpdns-cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "category-httpdns-cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "category-httpdns-cn/category-httpdns-cn_IP.mrs",
+      "sourceRelativeDir": "category-httpdns-cn",
+      "entryName": "category-httpdns-cn",
+      "fileName": "category-httpdns-cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "category-httpdns-cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "category-httpdns-cn/category-httpdns-cn.yaml",
+      "sourceRelativeDir": "category-httpdns-cn",
+      "entryName": "category-httpdns-cn",
+      "fileName": "category-httpdns-cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "category-httpdns-cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "category-speedtest@cn/category-speedtest_cn_Domain.mrs",
+      "sourceRelativeDir": "category-speedtest@cn",
+      "entryName": "category-speedtest@cn",
+      "fileName": "category-speedtest_cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "category-speedtest_cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "category-speedtest@cn/category-speedtest_cn_IP.mrs",
+      "sourceRelativeDir": "category-speedtest@cn",
+      "entryName": "category-speedtest@cn",
+      "fileName": "category-speedtest_cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "category-speedtest_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "category-speedtest@cn/category-speedtest_cn.yaml",
+      "sourceRelativeDir": "category-speedtest@cn",
+      "entryName": "category-speedtest@cn",
+      "fileName": "category-speedtest_cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "category-speedtest_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "cn-additional-list/cn-additional-list_Domain.mrs",
+      "sourceRelativeDir": "cn-additional-list",
+      "entryName": "cn-additional-list",
+      "fileName": "cn-additional-list_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "cn-additional-list",
+      "placeholder": false
+    },
+    {
+      "relativePath": "cn-additional-list/cn-additional-list_IP.mrs",
+      "sourceRelativeDir": "cn-additional-list",
+      "entryName": "cn-additional-list",
+      "fileName": "cn-additional-list_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "cn-additional-list",
+      "placeholder": true
+    },
+    {
+      "relativePath": "cn-additional-list/cn-additional-list.yaml",
+      "sourceRelativeDir": "cn-additional-list",
+      "entryName": "cn-additional-list",
+      "fileName": "cn-additional-list.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "cn-additional-list",
+      "placeholder": true
+    },
+    {
+      "relativePath": "cn@!cn/cn_cn_Domain.mrs",
+      "sourceRelativeDir": "cn@!cn",
+      "entryName": "cn@!cn",
+      "fileName": "cn_cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "cn_cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "cn@!cn/cn_cn_IP.mrs",
+      "sourceRelativeDir": "cn@!cn",
+      "entryName": "cn@!cn",
+      "fileName": "cn_cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "cn_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "cn@!cn/cn_cn.yaml",
+      "sourceRelativeDir": "cn@!cn",
+      "entryName": "cn@!cn",
+      "fileName": "cn_cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "cn_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "cn/cn_Domain.mrs",
+      "sourceRelativeDir": "cn",
+      "entryName": "cn",
+      "fileName": "cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "cn/cn_IP.mrs",
+      "sourceRelativeDir": "cn",
+      "entryName": "cn",
+      "fileName": "cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "cn/cn.yaml",
+      "sourceRelativeDir": "cn",
+      "entryName": "cn",
+      "fileName": "cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geoip-cn/geoip-cn_Domain.mrs",
+      "sourceRelativeDir": "geoip-cn",
+      "entryName": "geoip-cn",
+      "fileName": "geoip-cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geoip-cn/geoip-cn_IP.mrs",
+      "sourceRelativeDir": "geoip-cn",
+      "entryName": "geoip-cn",
+      "fileName": "geoip-cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "geoip-cn/geoip-cn.yaml",
+      "sourceRelativeDir": "geoip-cn",
+      "entryName": "geoip-cn",
+      "fileName": "geoip-cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geoip-google/geoip-google_Domain.mrs",
+      "sourceRelativeDir": "geoip-google",
+      "entryName": "geoip-google",
+      "fileName": "geoip-google_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-google",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geoip-google/geoip-google_IP.mrs",
+      "sourceRelativeDir": "geoip-google",
+      "entryName": "geoip-google",
+      "fileName": "geoip-google_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-google",
+      "placeholder": false
+    },
+    {
+      "relativePath": "geoip-google/geoip-google.yaml",
+      "sourceRelativeDir": "geoip-google",
+      "entryName": "geoip-google",
+      "fileName": "geoip-google.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-google",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geoip-private/geoip-private_Domain.mrs",
+      "sourceRelativeDir": "geoip-private",
+      "entryName": "geoip-private",
+      "fileName": "geoip-private_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-private",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geoip-private/geoip-private_IP.mrs",
+      "sourceRelativeDir": "geoip-private",
+      "entryName": "geoip-private",
+      "fileName": "geoip-private_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-private",
+      "placeholder": false
+    },
+    {
+      "relativePath": "geoip-private/geoip-private.yaml",
+      "sourceRelativeDir": "geoip-private",
+      "entryName": "geoip-private",
+      "fileName": "geoip-private.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-private",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geoip-telegram/geoip-telegram_Domain.mrs",
+      "sourceRelativeDir": "geoip-telegram",
+      "entryName": "geoip-telegram",
+      "fileName": "geoip-telegram_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-telegram",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geoip-telegram/geoip-telegram_IP.mrs",
+      "sourceRelativeDir": "geoip-telegram",
+      "entryName": "geoip-telegram",
+      "fileName": "geoip-telegram_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-telegram",
+      "placeholder": false
+    },
+    {
+      "relativePath": "geoip-telegram/geoip-telegram.yaml",
+      "sourceRelativeDir": "geoip-telegram",
+      "entryName": "geoip-telegram",
+      "fileName": "geoip-telegram.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "geoip-telegram",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geolocation-!cn@cn/geolocation-_cn_cn_Domain.mrs",
+      "sourceRelativeDir": "geolocation-!cn@cn",
+      "entryName": "geolocation-!cn@cn",
+      "fileName": "geolocation-_cn_cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geolocation-_cn_cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "geolocation-!cn@cn/geolocation-_cn_cn_IP.mrs",
+      "sourceRelativeDir": "geolocation-!cn@cn",
+      "entryName": "geolocation-!cn@cn",
+      "fileName": "geolocation-_cn_cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geolocation-_cn_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geolocation-!cn@cn/geolocation-_cn_cn.yaml",
+      "sourceRelativeDir": "geolocation-!cn@cn",
+      "entryName": "geolocation-!cn@cn",
+      "fileName": "geolocation-_cn_cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "geolocation-_cn_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geolocation-!cn/geolocation-_cn_Domain.mrs",
+      "sourceRelativeDir": "geolocation-!cn",
+      "entryName": "geolocation-!cn",
+      "fileName": "geolocation-_cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geolocation-_cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "geolocation-!cn/geolocation-_cn_IP.mrs",
+      "sourceRelativeDir": "geolocation-!cn",
+      "entryName": "geolocation-!cn",
+      "fileName": "geolocation-_cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "geolocation-_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "geolocation-!cn/geolocation-_cn.yaml",
+      "sourceRelativeDir": "geolocation-!cn",
+      "entryName": "geolocation-!cn",
+      "fileName": "geolocation-_cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "geolocation-_cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "github/github_Domain.mrs",
+      "sourceRelativeDir": "github",
+      "entryName": "github",
+      "fileName": "github_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "github",
+      "placeholder": false
+    },
+    {
+      "relativePath": "github/github_IP.mrs",
+      "sourceRelativeDir": "github",
+      "entryName": "github",
+      "fileName": "github_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "github",
+      "placeholder": true
+    },
+    {
+      "relativePath": "github/github.yaml",
+      "sourceRelativeDir": "github",
+      "entryName": "github",
+      "fileName": "github.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "github",
+      "placeholder": true
+    },
+    {
+      "relativePath": "google/google_Domain.mrs",
+      "sourceRelativeDir": "google",
+      "entryName": "google",
+      "fileName": "google_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "google",
+      "placeholder": false
+    },
+    {
+      "relativePath": "google/google_IP.mrs",
+      "sourceRelativeDir": "google",
+      "entryName": "google",
+      "fileName": "google_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "google",
+      "placeholder": true
+    },
+    {
+      "relativePath": "google/google.yaml",
+      "sourceRelativeDir": "google",
+      "entryName": "google",
+      "fileName": "google.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "google",
+      "placeholder": true
+    },
+    {
+      "relativePath": "private/private_Domain.mrs",
+      "sourceRelativeDir": "private",
+      "entryName": "private",
+      "fileName": "private_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "private",
+      "placeholder": false
+    },
+    {
+      "relativePath": "private/private_IP.mrs",
+      "sourceRelativeDir": "private",
+      "entryName": "private",
+      "fileName": "private_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "private",
+      "placeholder": true
+    },
+    {
+      "relativePath": "private/private.yaml",
+      "sourceRelativeDir": "private",
+      "entryName": "private",
+      "fileName": "private.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "private",
+      "placeholder": true
+    },
+    {
+      "relativePath": "stream-cn/stream-cn_Domain.mrs",
+      "sourceRelativeDir": "stream-cn",
+      "entryName": "stream-cn",
+      "fileName": "stream-cn_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "stream-cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "stream-cn/stream-cn_IP.mrs",
+      "sourceRelativeDir": "stream-cn",
+      "entryName": "stream-cn",
+      "fileName": "stream-cn_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "stream-cn",
+      "placeholder": true
+    },
+    {
+      "relativePath": "stream-cn/stream-cn.yaml",
+      "sourceRelativeDir": "stream-cn",
+      "entryName": "stream-cn",
+      "fileName": "stream-cn.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "stream-cn",
+      "placeholder": false
+    },
+    {
+      "relativePath": "telegram/telegram_Domain.mrs",
+      "sourceRelativeDir": "telegram",
+      "entryName": "telegram",
+      "fileName": "telegram_Domain.mrs",
+      "kind": "domain-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "telegram",
+      "placeholder": false
+    },
+    {
+      "relativePath": "telegram/telegram_IP.mrs",
+      "sourceRelativeDir": "telegram",
+      "entryName": "telegram",
+      "fileName": "telegram_IP.mrs",
+      "kind": "ipcidr-mrs",
+      "mihomo": "rules",
+      "ruleGroupName": "telegram",
+      "placeholder": true
+    },
+    {
+      "relativePath": "telegram/telegram.yaml",
+      "sourceRelativeDir": "telegram",
+      "entryName": "telegram",
+      "fileName": "telegram.yaml",
+      "kind": "remaining-yaml",
+      "mihomo": "rules",
+      "ruleGroupName": "telegram",
+      "placeholder": true
+    }
+  ]
+}
